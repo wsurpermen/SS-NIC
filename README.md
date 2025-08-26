@@ -12,3 +12,5 @@ python3 main.py --config configs/iris.py --cond_y True --mode train --workdir ir
 python3 bayesian_tune.py --name iris
 # the baseline method 
 python3 another.py --name iris --noise 0.4
+# to show the result
+python3 supervised_uns_condy.py --name iris --noise 0.4
