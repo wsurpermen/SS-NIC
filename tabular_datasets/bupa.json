@@ -1,0 +1,50 @@
+{
+    "columns": [
+        {
+            "max": 103.0,
+            "min": 65.0,
+            "name": "c0",
+            "type": "continuous"
+        },
+        {
+            "max": 138.0,
+            "min": 23.0,
+            "name": "c1",
+            "type": "continuous"
+        },
+        {
+            "max": 155.0,
+            "min": 4.0,
+            "name": "c2",
+            "type": "continuous"
+        },
+        {
+            "max": 82.0,
+            "min": 5.0,
+            "name": "c3",
+            "type": "continuous"
+        },
+        {
+            "max": 297.0,
+            "min": 5.0,
+            "name": "c4",
+            "type": "continuous"
+        },
+        {
+            "max": 20.0,
+            "min": 0.0,
+            "name": "c5",
+            "type": "continuous"
+        },
+        {
+            "i2s": [
+                0,
+                1
+            ],
+            "name": "label",
+            "size": 2,
+            "type": "categorical"
+        }
+    ],
+    "problem_type": "binary_classification"
+}

@@ -1,0 +1,128 @@
+{
+    "columns": [
+        {
+            "max": 72.5,
+            "min": 25.0,
+            "name": "c0",
+            "type": "continuous"
+        },
+        {
+            "max": 72.0,
+            "min": 35.0,
+            "name": "c1",
+            "type": "continuous"
+        },
+        {
+            "max": 0.533,
+            "min": 0.133,
+            "name": "c2",
+            "type": "continuous"
+        },
+        {
+            "max": 24.5,
+            "min": 12.0,
+            "name": "c3",
+            "type": "continuous"
+        },
+        {
+            "max": 105.0,
+            "min": 57.0,
+            "name": "c4",
+            "type": "continuous"
+        },
+        {
+            "max": 1.25,
+            "min": 0.056,
+            "name": "c5",
+            "type": "continuous"
+        },
+        {
+            "max": 70.0,
+            "min": 16.0,
+            "name": "c6",
+            "type": "continuous"
+        },
+        {
+            "max": 35.8,
+            "min": 0.0,
+            "name": "c7",
+            "type": "continuous"
+        },
+        {
+            "max": 2600.0,
+            "min": 0.0,
+            "name": "c8",
+            "type": "continuous"
+        },
+        {
+            "max": 76.9,
+            "min": 41.0,
+            "name": "c9",
+            "type": "continuous"
+        },
+        {
+            "max": 53.4,
+            "min": 22.0,
+            "name": "c10",
+            "type": "continuous"
+        },
+        {
+            "max": 16.0,
+            "min": 0.0,
+            "name": "c11",
+            "type": "continuous"
+        },
+        {
+            "max": 6.0,
+            "min": 0.0,
+            "name": "c12",
+            "type": "continuous"
+        },
+        {
+            "max": 3.1,
+            "min": 0.0,
+            "name": "c13",
+            "type": "continuous"
+        },
+        {
+            "max": 3.0,
+            "min": 0.0,
+            "name": "c14",
+            "type": "continuous"
+        },
+        {
+            "max": 50.0,
+            "min": 28.0,
+            "name": "c15",
+            "type": "continuous"
+        },
+        {
+            "max": 45.0,
+            "min": 30.0,
+            "name": "c16",
+            "type": "continuous"
+        },
+        {
+            "max": 117.86,
+            "min": 90.0,
+            "name": "c17",
+            "type": "continuous"
+        },
+        {
+            "max": 100.0,
+            "min": 90.0,
+            "name": "c18",
+            "type": "continuous"
+        },
+        {
+            "i2s": [
+                0,
+                1
+            ],
+            "name": "label",
+            "size": 2,
+            "type": "categorical"
+        }
+    ],
+    "problem_type": "binary_classification"
+}

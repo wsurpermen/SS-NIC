@@ -1,0 +1,26 @@
+{
+    "columns": [
+        {
+            "max": 2.81,
+            "min": -3.09,
+            "name": "c0",
+            "type": "continuous"
+        },
+        {
+            "max": 3.19,
+            "min": -2.39,
+            "name": "c1",
+            "type": "continuous"
+        },
+        {
+            "i2s": [
+                0,
+                1
+            ],
+            "name": "label",
+            "size": 2,
+            "type": "categorical"
+        }
+    ],
+    "problem_type": "binary_classification"
+}

@@ -1,0 +1,38 @@
+{
+    "columns": [
+        {
+            "max": 74.0,
+            "min": 0.0,
+            "name": "c0",
+            "type": "continuous"
+        },
+        {
+            "max": 50.0,
+            "min": 1.0,
+            "name": "c1",
+            "type": "continuous"
+        },
+        {
+            "max": 12500.0,
+            "min": 250.0,
+            "name": "c2",
+            "type": "continuous"
+        },
+        {
+            "max": 98.0,
+            "min": 2.0,
+            "name": "c3",
+            "type": "continuous"
+        },
+        {
+            "i2s": [
+                1.0,
+                0.0
+            ],
+            "name": "label",
+            "size": 2,
+            "type": "categorical"
+        }
+    ],
+    "problem_type": "binary_classification"
+}

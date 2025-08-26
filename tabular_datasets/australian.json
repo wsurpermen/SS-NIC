@@ -1,0 +1,98 @@
+{
+    "columns": [
+        {
+            "max": 1.0,
+            "min": 0.0,
+            "name": "c0",
+            "type": "continuous"
+        },
+        {
+            "max": 350.0,
+            "min": 1.0,
+            "name": "c1",
+            "type": "continuous"
+        },
+        {
+            "max": 215.0,
+            "min": 1.0,
+            "name": "c2",
+            "type": "continuous"
+        },
+        {
+            "max": 3.0,
+            "min": 1.0,
+            "name": "c3",
+            "type": "continuous"
+        },
+        {
+            "max": 14.0,
+            "min": 1.0,
+            "name": "c4",
+            "type": "continuous"
+        },
+        {
+            "max": 9.0,
+            "min": 1.0,
+            "name": "c5",
+            "type": "continuous"
+        },
+        {
+            "max": 132.0,
+            "min": 1.0,
+            "name": "c6",
+            "type": "continuous"
+        },
+        {
+            "max": 1.0,
+            "min": 0.0,
+            "name": "c7",
+            "type": "continuous"
+        },
+        {
+            "max": 1.0,
+            "min": 0.0,
+            "name": "c8",
+            "type": "continuous"
+        },
+        {
+            "max": 23.0,
+            "min": 1.0,
+            "name": "c9",
+            "type": "continuous"
+        },
+        {
+            "max": 1.0,
+            "min": 0.0,
+            "name": "c10",
+            "type": "continuous"
+        },
+        {
+            "max": 3.0,
+            "min": 1.0,
+            "name": "c11",
+            "type": "continuous"
+        },
+        {
+            "max": 171.0,
+            "min": 1.0,
+            "name": "c12",
+            "type": "continuous"
+        },
+        {
+            "max": 240.0,
+            "min": 1.0,
+            "name": "c13",
+            "type": "continuous"
+        },
+        {
+            "i2s": [
+                0.0,
+                1.0
+            ],
+            "name": "label",
+            "size": 2,
+            "type": "categorical"
+        }
+    ],
+    "problem_type": "binary_classification"
+}

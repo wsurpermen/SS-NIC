@@ -1,0 +1,39 @@
+{
+    "columns": [
+        {
+            "max": 5.0,
+            "min": 1.0,
+            "name": "c0",
+            "type": "continuous"
+        },
+        {
+            "max": 5.0,
+            "min": 1.0,
+            "name": "c1",
+            "type": "continuous"
+        },
+        {
+            "max": 5.0,
+            "min": 1.0,
+            "name": "c2",
+            "type": "continuous"
+        },
+        {
+            "max": 5.0,
+            "min": 1.0,
+            "name": "c3",
+            "type": "continuous"
+        },
+        {
+            "i2s": [
+                "B",
+                "R",
+                "L"
+            ],
+            "name": "label",
+            "size": 3,
+            "type": "categorical"
+        }
+    ],
+    "problem_type": "multiclass_classification"
+}
